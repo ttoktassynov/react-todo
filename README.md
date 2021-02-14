@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A simple to-do app in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It can add new to-do elements in list and persist them in local storage. Also it is possible to delete completed elements.
 
 ## Available Scripts
 
